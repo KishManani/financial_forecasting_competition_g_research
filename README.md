@@ -2,7 +2,7 @@ This repository contains my submission to the G Research Financial Forecasting C
 
 The notebooks document:
 * Exploratory data analysis
-* Feature preprocessing using methods such as tree-based discretisation, target/mean encoding, and entity embeddings
+* Feature preprocessing using methods such as tree-based discretisation, target encoding, and entity embeddings
 * Feature selection
 * Model training (XGboost, LightGBM, Neural Networks)
 * Hyperparameter tuning
