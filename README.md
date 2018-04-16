@@ -7,3 +7,8 @@ The notebooks document:
 * Model training (XGboost, LightGBM, Neural Networks)
 * Hyperparameter tuning
 * Training of entity embeddings of the Stock feature using Keras
+
+The library contains some helper functions for:
+* Feature preprocessing
+* Model training and validation
+* Entity embeddings
